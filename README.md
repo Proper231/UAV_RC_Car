@@ -9,3 +9,5 @@ The Brain_test file is our attempt at left turn and righ turns when the model is
 
 
 https://drive.google.com/file/d/1WzcxjTfjTE2V3lfSOVtmBUes_cGSUtqF/view?usp=drive_link
+https://drive.google.com/file/d/1keXSz4_ZfYPZ1h3oFdy4g6A-egVzatc9/view?usp=sharing
+https://drive.google.com/file/d/1xXCHVn62t_Z5JwRQGSEiSawIHhjjOrVZ/view?usp=sharing
