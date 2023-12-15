@@ -67,6 +67,12 @@ def video_detection():
                             elif class_name == 'yield':
                                 send_signal_to_arduino('YIELD_SIGNAL')
                                 last_signal_time = current_time
+                            elif class_name == 'signalAhead':
+                                send_signal_to_arduino('SA_SIGNAL')
+                                last_signal_time = current_time
+                            elif class_name == 'pedestrianCrossing':
+                                send_signal_to_arduino('P_SIGNAL')
+                                last_signal_time = current_time
                             # Add more conditions for other signs as needed
 
         cv2.imshow('Detection', img)
